@@ -52,7 +52,7 @@
     background-color: var(--primary-color) !important;
 }
 .hero {
-    height: 100vh ;
+    height: calc(100vh - 95.33px) ;
 }
 .hero-image {
     background-position: center;
