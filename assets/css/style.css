@@ -100,7 +100,7 @@
     background-color: white !important;
 }
 .accordion-button:focus {
-    box-shadow:  0 0 0 0.25rem hsla(182, 50%, 50%, 0.495) !important;
+    box-shadow: 0 0 0 0.25rem hsla(182, 50%, 50%, 0.495) !important;
 }
 
 /* contact */
